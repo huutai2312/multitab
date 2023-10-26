@@ -9,7 +9,7 @@ $scbl2 = $cat_blog->show_blog_category();
 
 <!DOCTYPE html>
 <html lang="vi">
-
+ 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
@@ -42,7 +42,7 @@ $scbl2 = $cat_blog->show_blog_category();
 <body class="page-template page-template-page-blog page-template-page-blog-php page page-id-212 page-container-full">
     <div class="clearfix"></div><!-- HTML starts here -->
     <div class="spide-fn-wrapper core_ready">
-        <!-- Header starts here -->
+        <!-- Header starts here --> 
         <!-- Header ends here -->
         <!-- Header starts here -->
         <!-- Header -->
