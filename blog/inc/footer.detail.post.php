@@ -5,7 +5,7 @@
                 <div class="container">
                   <div class="footer_btm_in">
                     <div class="footer_copyright">
-                      <p>© 2023 <a href="#">NHT</a></p>
+                      <p>© 2023 <a href="">NHT</a></p>
                     </div>
                   </div>
                 </div>
