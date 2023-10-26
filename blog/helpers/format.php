@@ -5,7 +5,6 @@ class Format
     {
         return date('F j, Y g:i a', strtotime($date));
     }
-
     public function textShorten($text, $limit = 400)
     {
         $text = $text . " ";
@@ -32,7 +31,7 @@ class Format
             $title = 'home';
         } elseif ($title == 'contact') {
             $title = 'contact';
-        }
+        } 
         return $title = ucfirst($title);
     }
 }
